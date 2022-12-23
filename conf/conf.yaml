@@ -1,0 +1,7 @@
+
+
+log:
+  fmt: '%(name)s--%(asctime)s--%(filename)s--%(lineno)d--%(levelname)s:%(message)s'
+  logger_level: 'DEBUG'
+  stream_level: 'DEBUG'
+  file_level: 'INFO'
